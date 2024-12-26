@@ -9,7 +9,7 @@ fs.readFile(filePath, {}, (erro, dados) => {
         return;
     }
 
-    console.log(dados);
+    console.log(dados.toString());
 });
 
 console.log(filePath);
