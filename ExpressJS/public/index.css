@@ -1,0 +1,10 @@
+#mainDiv{
+    position: absolute;
+    height: 100px;
+    width: 100%;
+    background-color: blueviolet;
+}
+#h1s {
+    font-size: 40px;
+    color: greenyellow;
+}
